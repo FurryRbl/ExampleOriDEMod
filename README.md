@@ -28,8 +28,9 @@ git clone https://github.com/FurryRbl/ExampleOriDEMod.git
 
 重命名解决方案，项目和类名称
 
-## $\color{red}{警告}$
+## 警告
 
-$\color{red}{请勿更新Mono.Cecil的NuGet包！！！}$
+请勿更新Mono.Cecil的NuGet包！！！
 
-$\color{red}{请保持解决方案平台默认为Any CPU！！！}$
+请保持解决方案平台默认为Any CPU！！！
+
